@@ -1,0 +1,6 @@
+{
+  "name": "Neon Online",
+  "description": "Official Neon Online BDIX FTP Media Server & Cyber-Nexus Portal (Badda, Dhaka). High-speed local BDIX movie streaming, live IPTV, and directory tools at ftp.neonbadda.bd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
